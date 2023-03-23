@@ -1,0 +1,8 @@
+connexion==2.14.1
+mysql_connector_repackaged==0.3.1
+pykafka==2.8.0
+pymysql==1.0.2
+PyYAML==6.0
+SQLAlchemy==1.4.36
+swagger_ui_bundle==0.0.9
+mysql-connector-python==8.0.26

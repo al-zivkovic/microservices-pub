@@ -1,0 +1,31 @@
+STORAGE :: DEBUG – Stored sell event with trace id d290f1ee-6c54-4b01-90e6-d701748f0851
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-02-23 09:59:57', 'payload': {'buy_id': 'd290f1ee-6c54-1b09-70e6-d701748f0851', 'item_name': 'Item 1', 'item_price': 19.99, 'buy_qty': 1, 'trace_id': '021446d3-b3f2-4ccd-a26d-dc7031a50461'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-02-23 09:59:57', 'payload': {'buy_id': 'd290f1ee-6c54-1b09-70e6-d701748f0851', 'item_name': 'Item 1', 'item_price': 19.99, 'buy_qty': 1, 'trace_id': '021446d3-b3f2-4ccd-a26d-dc7031a50461'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-02-23 09:59:57', 'payload': {'buy_id': 'd290f1ee-6c54-1b09-70e6-d701748f0851', 'item_name': 'Item 1', 'item_price': 19.99, 'buy_qty': 1, 'trace_id': '021446d3-b3f2-4ccd-a26d-dc7031a50461'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-02-23 09:59:57', 'payload': {'buy_id': 'd290f1ee-6c54-1b09-70e6-d701748f0851', 'item_name': 'Item 1', 'item_price': 19.99, 'buy_qty': 1, 'trace_id': '021446d3-b3f2-4ccd-a26d-dc7031a50461'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-02-23 09:59:57', 'payload': {'buy_id': 'd290f1ee-6c54-1b09-70e6-d701748f0851', 'item_name': 'Item 1', 'item_price': 19.99, 'buy_qty': 1, 'trace_id': '021446d3-b3f2-4ccd-a26d-dc7031a50461'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-02-23 09:59:57', 'payload': {'buy_id': 'd290f1ee-6c54-1b09-70e6-d701748f0851', 'item_name': 'Item 1', 'item_price': 19.99, 'buy_qty': 1, 'trace_id': '021446d3-b3f2-4ccd-a26d-dc7031a50461'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-02-23 09:59:57', 'payload': {'buy_id': 'd290f1ee-6c54-1b09-70e6-d701748f0851', 'item_name': 'Item 1', 'item_price': 19.99, 'buy_qty': 1, 'trace_id': '021446d3-b3f2-4ccd-a26d-dc7031a50461'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-02-23 09:59:57', 'payload': {'buy_id': 'd290f1ee-6c54-1b09-70e6-d701748f0851', 'item_name': 'Item 1', 'item_price': 19.99, 'buy_qty': 1, 'trace_id': '021446d3-b3f2-4ccd-a26d-dc7031a50461'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'sell', 'datetime': '2023-02-23 10:00:10', 'payload': {'sell_id': 'd290f1ee-6c54-1b09-70e6-d701748f0851', 'item_name': 'Item 1', 'item_price': 19.99, 'sell_qty': 1, 'trace_id': '60aa1e63-ddb8-474b-9551-7a87178622bd'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-02-23 10:06:49', 'payload': {'buy_id': 'd290f1ee-6c54-1b09-70e6-d701748f0851', 'item_name': 'Item 1', 'item_price': 19.99, 'buy_qty': 1, 'trace_id': '7cfc20fd-81cb-462d-ae04-71e995d85078'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-02-23 10:11:29', 'payload': {'buy_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'buy_qty': 1, 'item_name': 'Item 1', 'item_price': 19.99, 'trace_id': '0a46b36c-50cf-4c89-b5fc-57081da617b3'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-02-23 10:15:56', 'payload': {'buy_id': 'd290f1ee-6c54-1b09-70e6-d701748f0851', 'item_name': 'Item 1', 'item_price': 19.99, 'buy_qty': 1, 'trace_id': '46e207dd-103f-420c-8768-7a9007a1be0d'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-02-23 10:17:16', 'payload': {'buy_id': 'd290f1ee-6c54-1b09-70e6-d701748f0851', 'item_name': 'Item 1', 'item_price': 19.99, 'buy_qty': 1, 'trace_id': 'f393f53c-534a-40c5-ae6d-d5b92a83a785'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'sell', 'datetime': '2023-02-23 10:42:02', 'payload': {'sell_id': 'd290f1ee-6c54-1b09-70e6-d701748f0851', 'item_name': 'Item 1', 'item_price': 19.99, 'sell_qty': 1, 'trace_id': '1dfbc2e6-d92f-481f-b321-51bc9dac60e6'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'sell', 'datetime': '2023-02-23 10:42:26', 'payload': {'sell_id': 'd290f1ee-6c54-1b09-70e6-d701748f0851', 'item_name': 'Item 1', 'item_price': 19.99, 'sell_qty': 1, 'trace_id': '910827c5-dbbc-4a9b-8cb3-76a50b3f35b2'}}
