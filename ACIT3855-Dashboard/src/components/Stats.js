@@ -4,7 +4,11 @@ const Stats = () => {
     const [event, setEvent] = useState([])
 
     useEffect(() => {
+<<<<<<< HEAD
         fetch('http://34.216.237.140/processing/stats')
+=======
+        fetch('http://localhost:8100/stats')
+>>>>>>> 673f6c3a713c3c5a521125c5e4ea6135afefe034
             .then(res => res.json())
             .then(res => {
                 setEvent(res)
@@ -25,4 +29,8 @@ const Stats = () => {
     )
 }
 
+<<<<<<< HEAD
 export default Stats
+=======
+export default Stats
+>>>>>>> 673f6c3a713c3c5a521125c5e4ea6135afefe034
