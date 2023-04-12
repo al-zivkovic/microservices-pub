@@ -30,14 +30,14 @@ services:
     volumes:
       - data:/var/lib/mysql
   receiver:
-    image: receiver
+    image: alekszivko/receiver
     ports:
       - 8080:8080
     depends_on:
       - kafka
 
   storage:
-    image: storage
+    image: alekszivko/storage
     ports:
       - 8090:8090
     depends_on:
@@ -45,7 +45,7 @@ services:
       - receiver
 
   processing:
-    image: processing
+    image: alekszivko/processing
     ports:
       - 8100:8100
     depends_on:
